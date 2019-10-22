@@ -5,10 +5,10 @@ return [
     'public_dir' => APP_PUBLIC_DIR,
 
     'frontend_config' => [
-        'app_name' => 'FileGator',
+        'app_name' => 'IbsWebClient',
         'app_version' => APP_VERSION,
         'language' => 'english',
-        'logo' => 'https://raw.githubusercontent.com/filegator/filegator/master/dist/img/logo.png',
+        'logo' => 'https://github.com/larslight11/filegator/blob/master/dist/img/IbsLogo.png',
         'upload_max_size' => 100 * 1024 * 1024, // 100MB
         'upload_chunk_size' => 1 * 1024 * 1024, // 1MB
         'upload_simultaneous' => 3,
