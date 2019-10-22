@@ -5,7 +5,7 @@ return [
     'public_dir' => __DIR__.'/../../dist',
 
     'frontend_config' => [
-        'app_name' => 'FileGator',
+        'app_name' => 'IbsWebClient',
         'language' => 'english',
         'logo' => 'https://via.placeholder.com/263x55.png',
         'upload_max_size' => 2 * 1024 * 1024,
